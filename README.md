@@ -1,18 +1,6 @@
 # **🚀 AI-Powered Virtual College**
 
-## 🏆 **EY Techathon 5.0 - Top 11 National Finalist**
-
-Our **AI-powered virtual college framework** was recognized as a **Top 11 National Finalist** in **EY Techathon 5.0**, standing out among **1,00,000+ registrants**. This revolutionary project was developed by **Sashrik Gupta and Aagam Shah** to provide **personalized education, real-world skills training, and AI-driven job placement**, with a special focus on empowering **rural youth**.
-
-![EY Techathon Banner](https://github.com/user-attachments/assets/447d72fd-5647-4ea9-adbb-8018aa5fcd76)
-
----
-
-## 👨‍💻 **Meet Our Team**
-
-A dedicated team of innovators driving this vision forward. 
-
-![Our Team](https://github.com/user-attachments/assets/04661198-9244-48d3-bbd8-ea26ccc2de93)
+An **AI-powered virtual college platform** designed to deliver **personalized education**, **real-world skill-building**, and **AI-driven job placement**, with a special focus on empowering **rural youth**. Built as a multi-agentic system leveraging cutting-edge AI tools and technologies.
 
 ---
 
@@ -136,6 +124,6 @@ Now, visit **`http://localhost:3000`** to access the application.
 
 ## 🎯 **Conclusion**
 
-This project **redefines virtual education** by integrating **AI-powered learning, career readiness, and real-world exposure** into a **seamless, multi-agentic system**. Recognized as a **Top 11 Finalist in EY Techathon 5.0**, this initiative is a **game-changer for rural education and beyond**. 🚀🎓
+This project **redefines virtual education** by integrating **AI-powered learning, career readiness, and real-world exposure** into a **seamless, multi-agentic system**. This initiative is a **game-changer for rural education and beyond**. 🚀🎓
 
 ---
